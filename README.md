@@ -9,6 +9,7 @@ N/A
 
 Having a portfolio using codes from bootsrap saves time and resources.This website could be used as a study fuide for junior developers.
 <img src=./css/images/screenshot.png alt=webpage>
+https://odunsikazeem.github.io/Bootstrap-Portfolio/
 
 ## Credit
 The edX bootcamp canvas (https://bootcampspot.instructure.com/) served as a basis for this project while the majority of the codes used was gotten from https://getbootstrap.com/ .And i also used https://mdbootstrap.com/ for guidance.
