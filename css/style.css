@@ -12,10 +12,9 @@
 
   .container-fluid-1 {
     display: flex;
-    justify-items: ;
     margin: 20px;
     flex-wrap: wrap;
-  } 
+  }  
 
   .skills {
     display: flex;
